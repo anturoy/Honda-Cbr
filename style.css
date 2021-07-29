@@ -1,0 +1,43 @@
+.section-color{
+    background-color:  #264653;
+    color: aliceblue;
+}
+body span{
+    color: #E76F51;
+}
+.aaa img {
+        filter: grayscale(100%);
+}
+.bbb{
+    background: yellow;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    top: 50%;
+}
+.ccc{
+    color: aqua;
+}
+.ddd{
+    color: rgba(255, 0, 0, 0.692);
+}
+.fff{
+    width: 80%;
+    margin-top: 80px;
+}
+.eee{
+    margin-right: 30px;
+    width: 431px;
+    height: 423px;
+}
+.ggg{
+    height: 149px;
+    width: 149px;
+}
+.kkk{
+    width: 288px;
+    height: 243px;
+}
+.lll{
+    width: 552px;
+    height: 447px;
+}
