@@ -32,6 +32,7 @@ body span{
 .ggg{
     height: 149px;
     width: 149px;
+   margin-left: 90px;
 }
 .kkk{
     width: 288px;
@@ -40,4 +41,10 @@ body span{
 .lll{
     width: 552px;
     height: 447px;
+}
+.ppp span{
+   color: #23A6F0;
+}
+.xxx span{
+color: #E76F51;
 }
